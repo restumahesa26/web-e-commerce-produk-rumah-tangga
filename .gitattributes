@@ -3,3 +3,5 @@
 *.html linguist-detectable=false
 *.blade linguist-detectable=true
 *.scss linguist-detectable=false
+*.less linguist-detectable=false
+*.php linguist-detectable=true
